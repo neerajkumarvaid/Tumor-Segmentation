@@ -9,4 +9,4 @@ Requirements:
     
 How to use?
 
-Tumordetection_inferenceOnly.py is the main file that will read in the weights and supporting code to run the tumor segmentation model. You can change the directory of your images at line 37 of this file. 
+Tumordetection_inferenceOnly.py is the main file that will read in the weights and supporting code to run the tumor segmentation model. You can change the directory of your images at line 37 of this file. You may also change the directory for saving the results at line 68.
